@@ -10,6 +10,7 @@ class URI
         int b = Convert.ToInt32(Console.ReadLine());
         int prod = a * b;
         Console.WriteLine($"PROD = {prod}");
+
     }
 
 }
