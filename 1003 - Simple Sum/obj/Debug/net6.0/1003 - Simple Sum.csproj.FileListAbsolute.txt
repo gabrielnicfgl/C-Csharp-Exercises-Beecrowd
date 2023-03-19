@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\bin\Debug\net6.0\1003 - Simple Sum.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\bin\Debug\net6.0\1003 - Simple Sum.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\bin\Debug\net6.0\1003 - Simple Sum.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\bin\Debug\net6.0\1003 - Simple Sum.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\bin\Debug\net6.0\1003 - Simple Sum.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\refint\1003 - Simple Sum.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\1003 - Simple Sum.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1003 - Simple Sum\obj\Debug\net6.0\ref\1003 - Simple Sum.dll
