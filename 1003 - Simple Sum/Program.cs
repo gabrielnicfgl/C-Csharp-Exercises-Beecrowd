@@ -9,6 +9,7 @@ class URI
         int b = Convert.ToInt32(Console.ReadLine());
         int SOMA = a + b;
         Console.WriteLine($"SOMA = {SOMA}");
+
     }
 
 }
