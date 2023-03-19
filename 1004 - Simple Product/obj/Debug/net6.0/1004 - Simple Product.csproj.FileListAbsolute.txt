@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\bin\Debug\net6.0\1004 - Simple Product.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\bin\Debug\net6.0\1004 - Simple Product.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\bin\Debug\net6.0\1004 - Simple Product.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\bin\Debug\net6.0\1004 - Simple Product.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\bin\Debug\net6.0\1004 - Simple Product.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\refint\1004 - Simple Product.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\1004 - Simple Product.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1004 - Simple Product\obj\Debug\net6.0\ref\1004 - Simple Product.dll
