@@ -15,7 +15,7 @@ class URI
 
         Console.WriteLine($"MEDIA = {media.ToString("F5", CultureInfo.InvariantCulture)}");
 
-        Console.Read();
+        Console.ReadKey();
     }
 
 }
