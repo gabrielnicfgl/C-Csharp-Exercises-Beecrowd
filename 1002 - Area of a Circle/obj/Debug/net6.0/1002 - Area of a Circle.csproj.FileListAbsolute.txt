@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\bin\Debug\net6.0\1002 - Area of a Circle.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\bin\Debug\net6.0\1002 - Area of a Circle.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\bin\Debug\net6.0\1002 - Area of a Circle.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\bin\Debug\net6.0\1002 - Area of a Circle.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\bin\Debug\net6.0\1002 - Area of a Circle.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\refint\1002 - Area of a Circle.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\1002 - Area of a Circle.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1002 - Area of a Circle\obj\Debug\net6.0\ref\1002 - Area of a Circle.dll
