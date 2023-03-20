@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\bin\Debug\net6.0\1007 - Difference.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\bin\Debug\net6.0\1007 - Difference.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\bin\Debug\net6.0\1007 - Difference.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\bin\Debug\net6.0\1007 - Difference.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\bin\Debug\net6.0\1007 - Difference.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\refint\1007 - Difference.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\1007 - Difference.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1007 - Difference\obj\Debug\net6.0\ref\1007 - Difference.dll
