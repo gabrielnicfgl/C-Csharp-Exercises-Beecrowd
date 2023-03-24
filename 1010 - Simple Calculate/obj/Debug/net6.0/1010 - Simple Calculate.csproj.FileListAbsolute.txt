@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\bin\Debug\net6.0\1010 - Simple Calculate.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\bin\Debug\net6.0\1010 - Simple Calculate.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\bin\Debug\net6.0\1010 - Simple Calculate.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\bin\Debug\net6.0\1010 - Simple Calculate.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\bin\Debug\net6.0\1010 - Simple Calculate.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\refint\1010 - Simple Calculate.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\1010 - Simple Calculate.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1010 - Simple Calculate\obj\Debug\net6.0\ref\1010 - Simple Calculate.dll
