@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\bin\Debug\net6.0\1012.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\bin\Debug\net6.0\1012.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\bin\Debug\net6.0\1012.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\bin\Debug\net6.0\1012.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\bin\Debug\net6.0\1012.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\refint\1012.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\1012.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1012 - Area\obj\Debug\net6.0\ref\1012.dll
