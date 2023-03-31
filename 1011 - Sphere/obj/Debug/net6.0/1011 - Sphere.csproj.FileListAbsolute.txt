@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\bin\Debug\net6.0\1011 - Sphere.exe
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\bin\Debug\net6.0\1011 - Sphere.deps.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\bin\Debug\net6.0\1011 - Sphere.runtimeconfig.json
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\bin\Debug\net6.0\1011 - Sphere.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\bin\Debug\net6.0\1011 - Sphere.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.AssemblyInfo.cs
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\refint\1011 - Sphere.dll
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.pdb
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\1011 - Sphere.genruntimeconfig.cache
+C:\Users\gabri\Desktop\becrowd\-C-Exercises-beecrowd\1011 - Sphere\obj\Debug\net6.0\ref\1011 - Sphere.dll
